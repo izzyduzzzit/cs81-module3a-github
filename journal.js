@@ -8,3 +8,15 @@ function greet(name) {
 function isEven(number) {
   return number % 2 === 0;
 }
+
+// Double a number
+// This function takes a number as input and returns the number multiplied by 2
+function double(number) {
+  return number * 2;
+}
+
+// Check if a number is divisible by 3
+// This function takes a number as input and returns true if it is divisible by 3,
+function divisibleByThree(number) {
+  return number % 3 === 0;
+}
