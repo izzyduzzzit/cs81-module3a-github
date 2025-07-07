@@ -1,3 +1,5 @@
+// Izarra Villareal CS 81 JavaScript Module 3A GitHub
+
 // Greet a user by name
 function greet(name) {
   return "Hello, " + name + "!";
