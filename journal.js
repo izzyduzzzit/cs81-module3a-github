@@ -20,3 +20,15 @@ function double(number) {
 function divisibleByThree(number) {
   return number % 3 === 0;
 }
+
+// Convert a string to uppercase
+// This function takes a string as input and returns it in uppercase
+function convertToUpperCase(str) {
+  return str.toUpperCase();
+}
+
+// Calculate the area of a rectangle
+// given its length and width
+function calculateArea(length, width) {
+  return length * width;
+}
